@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> 
+//You can name variable properly. Dont need to include all libraries.
 using namespace std;
 #define ll long long 
 set<string>uniquely_decodable_string;
