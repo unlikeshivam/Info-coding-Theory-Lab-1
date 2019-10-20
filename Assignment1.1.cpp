@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+//You can name variable properly. Dont need to include all libraries.
 using namespace std;
 
 bool check(string a,string b){
